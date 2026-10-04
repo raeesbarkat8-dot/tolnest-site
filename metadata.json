@@ -1,0 +1,8 @@
+{
+  "name": "ToolNest — Free Online Tools",
+  "description": "Fast, simple, and free online tools for everyday problems. Calculators, image compressors, converters, text utilities, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
